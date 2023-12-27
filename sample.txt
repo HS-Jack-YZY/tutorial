@@ -4,4 +4,9 @@ I add the second line!
 testing1 branch add.
 
 我在这里新增一行
+<<<<<<< HEAD
 这是我在分支中增加的代码
+=======
+
+我又增加了一行。
+>>>>>>> 3944993d0cc9b24f0d216bb1ca9a29dd964cf2a2
