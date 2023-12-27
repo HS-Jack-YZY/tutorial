@@ -4,3 +4,4 @@ I add the second line!
 testing1 branch add.
 
 我在这里新增一行
+这是我在分支中增加的代码
